@@ -1,0 +1,15 @@
+[
+{
+  "modid": "flavisNix",
+  "name": "Flavis Nix",
+  "description": "Flavis Nix is a special kind of magic mod.",
+  "version": "0.0.0",
+  "mcversion": "1.9.4",
+  "url": "https://github.com/phase/flavisNix",
+  "updateUrl": "",
+  "authorList": ["phase"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
