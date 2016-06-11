@@ -32,6 +32,7 @@ public class FlavisNix {
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
         ItemManager.registerItems();
+        BlockManager.registerBlocks();
     }
 
 }

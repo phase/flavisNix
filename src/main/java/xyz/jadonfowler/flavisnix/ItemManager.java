@@ -6,7 +6,7 @@ import net.minecraft.item.Item;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 import xyz.jadonfowler.flavisnix.items.OctroDust;
 
-public class ItemManager {
+public final class ItemManager {
 
     public static OctroDust octroDust = new OctroDust();
 
